@@ -19,8 +19,6 @@ try
     switch (choice)
     {
         case 1:
-    
-
     #region CREATE FACILLITY
 
     Console.WriteLine("Enter The Facillity Name");
